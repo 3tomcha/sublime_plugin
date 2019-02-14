@@ -1,0 +1,30 @@
+[
+    {
+        "caption": "newPlugin: コメントで囲う",
+        "command": "surround_comment"
+    },
+    {
+        "caption": "newPlugin: if文で囲む",
+        "command": "surround_if"
+    },
+    {
+        "caption": "newPlugin: phpで囲む",
+        "command": "surround_php"
+    },
+    {
+        "caption": "newPlugin: 画像挿入",
+        "command": "surround_pre"
+    },
+    {
+        "caption": "newPlugin: ハイライトを挿入",
+        "command": "table_highlight"
+    },
+    {
+        "caption": "newPlugin: 関数構造を表示",
+        "command": "disp_array_structure"
+    },
+    {
+        "caption": "newPlugin:スペースで囲む",
+        "command": "surround_space"
+    },
+]

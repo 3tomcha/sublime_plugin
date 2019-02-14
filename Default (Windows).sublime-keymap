@@ -1,0 +1,23 @@
+[
+    {
+        "keys": ["ctrl+f1"], "command": "surround_comment"
+    },
+    {
+        "keys": ["ctrl+f2"], "command": "surround_if"
+    },
+    {
+        "keys": ["ctrl+f3"], "command": "surround_php"
+    },
+    {
+        "keys": ["ctrl+f4"], "command": "surround_pre"
+    },
+    {
+        "keys": ["ctrl+f5"], "command": "table_highlight"
+    },
+    {
+        "keys": ["ctrl+f6"], "command": "disp_array_structure"
+    },
+    {
+        "keys": ["ctrl+f7"], "command": "surround_space"
+    },
+]
